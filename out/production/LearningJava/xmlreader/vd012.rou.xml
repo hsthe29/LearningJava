@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<routes>
+    <personFlow id="p0a" begin="1" period="5" impatience="0.00"/>
+    <personFlow id="p1a" begin="1" period="5" impatience="0.00"/>
+    <personFlow id="p10a" begin="1" period="5" impatience="0.04"/>
+</routes>

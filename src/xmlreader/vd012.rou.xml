@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<routes>
+    <personFlow id="p0a" begin="1" period="5" impatience="0.00">
+        <walk from="E0" to="-E0"/>
+    </personFlow>
+    <personFlow id="p0b" begin="1" period="5" impatience="1.00">
+        <walk from="-E0" to="E0"/>
+    </personFlow>
+    <personFlow id="p1a" begin="1" period="5" impatience="0.00">
+        <walk from="E1" to="-E1"/>
+    </personFlow>
+    <personFlow id="p1b" begin="1" period="5" impatience="1.00">
+        <walk from="-E1" to="E1"/>
+    </personFlow>
+    <personFlow id="p10a" begin="1" period="5" impatience="0.04">
+        <walk from="E10" to="-E10"/>
+    </personFlow>
+    <personFlow id="p10b" begin="1" period="5" impatience="0.96">
+        <walk from="-E10" to="E10"/>
+    </personFlow>
+</routes>
